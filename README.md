@@ -4,6 +4,9 @@ Es un buscador de imagenes, las cuales las consume la Api de Pixabay.
 
 Nos muestra los "me gusta" y las "vistas" de dichas imagenes.
 
+Al ser un proyecto de hace mas de dos años, el codigo puede parecer "obsoleto" comparado
+con la forma de crear componentes actuales.
+
 
 
 
