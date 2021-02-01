@@ -1,3 +1,13 @@
+Proyecto de practica hecho con react.js.
+
+Es un buscador de imagenes, las cuales las consume la Api de Pixabay.
+
+Nos muestra los "me gusta" y las "vistas" de dichas imagenes.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
